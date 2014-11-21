@@ -18,4 +18,4 @@ $ python shuffle.py \path\to\my_files
 ```
 
 #### result
-one of the possible results will be `0-hohoho`, `1-hahaha`, `2-hehehe` in directory `my_files`
+one of the possible results will be `1-hohoho`, `2-hahaha`, `3-hehehe` in directory `my_files`
